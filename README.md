@@ -38,3 +38,32 @@ Denver County had the largest number of votes cast with 306,055 votes.
 We can see in the output (above) that Denver had the largest turnout. However, this code was used to retrieve and print/write that directly from the data:
 
 !["Winning_county_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
+
+## Tabulation of Candidate Votes:
+This precinct had three candidates.  The results for each candidate are:
+
+!["candidate_votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/Candidate_votes.png)
+
+This required the use of a for loop to identify the candidates in each row and add to the vote count for each occurrence of the candidate in the data.  The next step was to calculate the percentage of total votes the candidate received.
+
+!["county_vote_count_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_vote_count_code.png)
+
+You can see in the last three lines of the code, we have printed to the terminal and written to the .txt file.
+
+!["candidate_count_terminal"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_count_terminal.png)
+
+## Winner Declared!
+Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a process similar to the one we used to identify the county with the largets number of votes to clarify the winner of this election.
+
+!["Winning candidate code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
+
+
+## Election Audit Summary -
+
+The automated audit of this election data was made possible with the use of this code.  While it took some time to write the code, (a task that would have been faster if done by someone with more experience), it took just moments to get the results. 
+
+The great thing about this code is that with some modifications, it could be used for a national election by replacing all county references to states.
+
+
+Also, it would be a bit more complex to do, but if the election data were to include election results for more than one position or role, we could insert a for loop earlier in the code to abstract the data by role, then run the analysis get the winner for each role.
+
