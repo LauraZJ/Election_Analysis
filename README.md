@@ -35,6 +35,8 @@ To obtain these results, we had to retrieve the votes by county and then calcula
 ## Largest County Turnout
 Denver County had the largest number of votes cast with 306,055 votes.
 
+!["County Votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/county_vote_breakdown.png)
+
 We can see in the output (above) that Denver had the largest turnout. However, this code was used to retrieve and print/write that directly from the data:
 
 !["Winning_county_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
