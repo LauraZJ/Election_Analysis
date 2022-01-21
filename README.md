@@ -9,6 +9,7 @@ The purpose of this exercise is to analyze the election results for three counti
 Total votes cast in this election:  369,711
     
 To obtain the total votes, we first set the total_votes to 0 (not pictured below) and then used a for loop to go through each row and add each vote to the number of total_votes.
+
 !["Total Votes code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/total_votes_code.png)
 
 ### Vote count by County
