@@ -28,4 +28,5 @@ The table below provides the number of votes cast in each county and identifies 
     |-------------------------------------------|
     
 To obtain these results, we had to retrieve the votes by county and then calculate the percentage using the code below.
+
 !["County vote breakdown code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/county_vote_breakdown_code2.png)
