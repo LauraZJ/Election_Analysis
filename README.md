@@ -66,7 +66,7 @@ Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a pr
 
 The automated audit of this election data was made possible with the use of this code.  While it took some time to write the code, (a task that would have been faster if done by someone with more experience), it took just moments to get the results. 
 
-The great thing about this code is that with some modifications, it could be used for a national election by replacing all county references to states.
+The great thing about this code is that with some modifications, it could be used for a national election by replacing all county references with states.
 
 
 Also, it would be a bit more complex to do, but if the election data were to include election results for more than one position or role, we could insert a for loop earlier in the code to abstract the data by role, then run the analysis get the winner for each role.
