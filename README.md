@@ -50,7 +50,7 @@ This required the use of a for loop to identify the candidates in each row and a
 
 !["county_vote_count_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_vote_count_code.png)
 
-You can see in the last three lines of the code (ab0ve), we have asked to print to the terminal and written to the .txt file. See the terminal output below
+In the last three lines of the code (above), we have asked to print to the terminal and written to the .txt file. See the terminal output below
 
 !["candidate_count_terminal"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_count_terminal.png)
 
