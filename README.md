@@ -44,7 +44,7 @@ We can see in the output (above) that Denver had the largest turnout. However, t
 ## Tabulation of Candidate Votes:
 This precinct had three candidates.  The results for each candidate are:
 
-!["Candidate votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/Candidate_votes.png)
+!["Candidate votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/Candidate_votes2.png)
 
 This required the use of a for loop to identify the candidates in each row and add to the vote count for each occurrence of the candidate in the data.  The next step was to calculate the percentage of total votes the candidate received.
 
