@@ -48,17 +48,19 @@ This required the use of a for loop to identify the candidates in each row and a
 
 !["county_vote_count_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_vote_count_code.png)
 
-You can see in the last three lines of the code, we have printed to the terminal and written to the .txt file.
+You can see in the last three lines of the code (ab0ve), we have asked to print to the terminal and written to the .txt file. See the terminal output below
 
 !["candidate_count_terminal"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_count_terminal.png)
 
 ## Winner Declared!
-Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a process similar to the one we used to identify the county with the largets number of votes to clarify the winner of this election.
+Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a process similar to the one we used to identify the county with the largest number of votes to clarify the winner of this election.
 
 !["Winning candidate code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
 
+!["Winning Candidate Readour"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_readout.png)
 
-## Election Audit Summary -
+
+## Election Audit Summary
 
 The automated audit of this election data was made possible with the use of this code.  While it took some time to write the code, (a task that would have been faster if done by someone with more experience), it took just moments to get the results. 
 
