@@ -12,7 +12,7 @@ To obtain the total votes, we first set the total_votes to 0 (not pictured below
 
 !["total votes image"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/total_votes_code2.png)
 
-### Vote count by County
+## Vote count by County
 The table below provides the number of votes cast in each county and identifies what percentage of the total election votes took place in each county.
 
     |-------------------------------------------|
@@ -37,7 +37,7 @@ Denver County had the largest number of votes cast with 306,055 votes.
 
 !["County Votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/county_vote_breakdown.png)
 
-We can see in the output (above) that Denver had the largest turnout. However, this code was used to retrieve and print/write that directly from the data:
+We can see in the output (above) that Denver had the largest turnout. However, the following code was used to retrieve and print/write that directly from the data:
 
 !["Winning_county_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
 
@@ -62,7 +62,7 @@ Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a pr
 !["Winning Candidate Readour"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_readout.png)
 
 
-## Election Audit Summary
+# Election Audit Summary
 
 The automated audit of this election data was made possible with the use of this code.  While it took some time to write the code, (a task that would have been faster if done by someone with more experience), it took just moments to get the results. 
 
