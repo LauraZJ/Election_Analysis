@@ -46,7 +46,7 @@ This precinct had three candidates.  The results for each candidate are:
 
 !["Candidate votes"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/Candidate_votes2.png)
 
-This required the use of a for loop to identify the candidates in each row and add to the vote count for each occurrence of the candidate in the data.  The next step was to calculate the percentage of total votes the candidate received.
+Obtaining these results required the use of a for loop to identify the candidates in each row and add to the vote count for each occurrence of the candidate in the data.  The next step was to calculate the percentage of total votes the candidate received.
 
 !["county_vote_count_code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_vote_count_code.png)
 
@@ -55,7 +55,7 @@ In the last three lines of the code (above), we have asked to print to the termi
 !["candidate_count_terminal"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/candidate_count_terminal.png)
 
 ## Winner Declared!
-Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a process similar to the one we used to identify the county with the largest number of votes to clarify the winner of this election.
+Diana DeGette wins the election with 73.8% of the votes (272,892).  We used a process similar to the one we used to identify the county with the largest number of votes to clarify the winner of this election.  The code and output are both below.
 
 !["Winning candidate code"](https://github.com/LauraZJ/Election_Analysis/blob/main/Resources/winning_candidate_code.png)
 
